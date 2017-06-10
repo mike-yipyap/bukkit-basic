@@ -1,0 +1,9 @@
+name: TomorrowPvP
+version: 1.0
+author: Maxwell Kooiker
+main: mcpluginexp.Main
+description: The TomorrowPvP Plugin!
+commands:
+  test:
+    description: A test command
+    usage: /<command>
