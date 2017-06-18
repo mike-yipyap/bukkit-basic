@@ -1,9 +1,12 @@
-name: TomorrowPvP
+name: MinecraftPluginExp
 version: 1.0
-author: Maxwell Kooiker
+author: Michael Kooiker
 main: mcpluginexp.Main
-description: The TomorrowPvP Plugin!
+description: Experiment Minecraft Plugin
 commands:
   test:
     description: A test command
+    usage: /<command>
+  test2:
+    description: A test2 command
     usage: /<command>
